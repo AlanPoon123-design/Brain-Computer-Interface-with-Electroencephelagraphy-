@@ -1,1 +1,1 @@
-# Brain-Computer-Interface-w-Electroencephelagraphy-
+# Brain-Computer-Interface-Overview
